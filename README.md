@@ -1,6 +1,7 @@
+#https://youtu.be/0mgCFpptO9w?si=X8pnhZllKpkBM349
 
 # final-project
-#https://youtu.be/0mgCFpptO9w?si=X8pnhZllKpkBM349
+
 import random
 
 word_themes = {
